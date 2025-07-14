@@ -1,0 +1,13 @@
+Total area of continent = sum(continent[area])
+
+Total Population = sum(continent[population])
+
+MAX GDP IN 2024 = max(gdp_in_2024[gdp])
+
+MAX GDP IN 2023 = max(gdp_in_2023[gdp])
+
+MAX GDP IN 2022 = max(gdp_in_2022[gdp])
+
+MAX GDP IN 2021 = max(gdp_in_2021[gdp])
+
+MAX GDP IN 2020 = max(gdp_in_2020[gdp])
